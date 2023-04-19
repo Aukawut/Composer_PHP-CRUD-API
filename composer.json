@@ -1,0 +1,16 @@
+{
+    "name": "aukawut/composer-crud-api",
+    "autoload": {
+        "psr-4": {
+            "Aukawut\\ComposerCrudApi\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "aukawut"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    }
+}
